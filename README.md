@@ -3,6 +3,11 @@
 
 ![bowenjia's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowenjia&show_icons=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowenjia&layout=compact)](https://github.com/bowenjia/github-readme-stats)
+
+
+
+
 
 
 <!--
