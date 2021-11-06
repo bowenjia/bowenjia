@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 ![bowenjia's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowenjia&show_icons=true&count_private=true)
 
